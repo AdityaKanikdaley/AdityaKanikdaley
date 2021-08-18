@@ -15,19 +15,19 @@ Main highlights:
 <br><br>
 
 <div align='center'>
-   <a href='https://github.com/AdityaKanikdaley/IndianCompanies'> 
+   <a href='https://github.com/AdityaKanikdaley/IndianCompanies' target='_blank'> 
      <p>
        <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/indianCompanies.png'/><br>
        Indian Companies
      </p>
    </a>
-   <a href='https://github.com/AdityaKanikdaley/CollegeLog'>
+   <a href='https://github.com/AdityaKanikdaley/CollegeLog' target='_blank'>
      <p>
        <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/collegeLog.png'/><br>
        College Log
      </p>  
    </a>
-   <a href='https://github.com/AdityaKanikdaley/ExpenseManager'>
+   <a href='https://github.com/AdityaKanikdaley/ExpenseManager' target='_blank'>
      <p>
        <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/expenseManager.png'/><br>
        Expense Manager 
