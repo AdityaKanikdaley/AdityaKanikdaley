@@ -10,28 +10,51 @@
   
 Hey there 👋,
 
-I create apps and websites mainly in Flutter and Android. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see the repos on my [Profile](https://github.com/AdityaKanikdaley). 
+I create apps and websites mainly in Flutter and Android. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see the repos on my [Profile](https://github.com/AdityaKanikdaley). <br>
 Main highlights:
+<br><br>
 
-<p align='center'>
-<a href='https://twitter.com/AKanikdaley' target="_blank">
+<div align='center'>
+   <a href='https://github.com/AdityaKanikdaley/IndianCompanies'> 
+     <p>
+       <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/indianCompanies.png'/><br>
+       Indian Companies
+     </p>
+   </a>
+   <a href='https://github.com/AdityaKanikdaley/CollegeLog'>
+     <p>
+       <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/collegeLog.png'/><br>
+       College Log
+     </p>  
+   </a>
+   <a href='https://github.com/AdityaKanikdaley/ExpenseManager'>
+     <p>
+       <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/expenseManager.png'/><br>
+       Expense Manager 
+     </p>
+   </a>
+</div>            
+    
+    
+    
+
+    
+<!--     <figure>
+    <img class="top" height='50' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'/>
+    <figcaption> Twitter1 </figcaption> 
+  </figure>&nbsp;&nbsp;
+  
   <figure>
-  <img height='60' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'>
-  <figcaption align='center'><br><b>Twitter</b></figcaption>
-</figure>
-  </a>
-  <a>
-<figure>
-  <img height='60' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'>
-  <figcaption align='center'><b>Twitter</b></figcaption>
-</figure>
-  </a>
-  <a>
-<figure>
-  <img height='60' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'>
-  <figcaption align='center'><b>Twitter</b></figcaption>
-</figure>
-  </a>
+  <img  class="average" height='50' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'/>
+  <figcaption> Twitter2 </figcaption> 
+  </figure>&nbsp;&nbsp;
+ 
+  <figure>
+  <img  class="average" height='50' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'/>
+  <figcaption> Twitter3 </figcaption>  
+  </figure> -->
+
+                                                                                                                               
  
 <!-- <p align='center'>
   Twitter
@@ -42,7 +65,7 @@ Main highlights:
 
 
 
-</p>
+
        
 <!-- <p align='center'>
   <figure><img height='60' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'><figcaption align='center'><b>Twitter</b></figcaption></figure>
