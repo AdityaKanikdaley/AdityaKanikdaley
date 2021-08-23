@@ -7,14 +7,39 @@
   <a href='https://www.instagram.com/aditya_kanikdaley/'><img height='30' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/instagram.png'></a>&nbsp;&nbsp;
   <a href='https://twitter.com/AKanikdaley'><img height='30' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'></a>&nbsp;&nbsp;
 </p>
-  
+
 Hey there 👋,
 
 I create apps and websites mainly in Flutter and Android. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see the repos on my [Profile](https://github.com/AdityaKanikdaley). <br>
 Main highlights:
 <br><br>
 
-<div align='center'>
+<table align='center'>
+  <tbody>
+    <tr> 
+       <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/IndianCompanies'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/indianCompanies.png'/>
+           <p>Indian Companies</p>
+         </a>
+      </td>
+       <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/CollegeLog'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/collegeLog.png'/>
+           <p>College Log</p>
+         </a>
+      </td>
+       <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/ExpenseManager'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/expenseManager.png'/>
+           <p>Expense Manager</p>
+         </a>
+      </td>
+    </tr>
+  </tbody>  
+</table>
+
+<!-- <div align='center'>
    <a href='https://github.com/AdityaKanikdaley/IndianCompanies' target='_blank'> 
      <p>
        <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/indianCompanies.png'/><br>
@@ -33,13 +58,13 @@ Main highlights:
        Expense Manager 
      </p>
    </a>
-</div>            
+</div>             -->
     
     
     
 
     
-<!--     <figure>
+<!-- <figure>
     <img class="top" height='50' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/twitter.png'/>
     <figcaption> Twitter1 </figcaption> 
   </figure>&nbsp;&nbsp;
