@@ -14,7 +14,7 @@ I create apps and websites mainly in Flutter and Android. I have a passion for l
 Main highlights:
 <br><br>
 
-<table align='center'>
+<table align='center' frame='box'>
   <tbody>
     <tr> 
        <td align='center'>
@@ -58,7 +58,7 @@ Main highlights:
        Expense Manager 
      </p>
    </a>
-</div>             -->
+</div> -->
     
     
     
