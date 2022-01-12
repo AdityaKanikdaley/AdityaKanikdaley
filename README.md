@@ -23,6 +23,12 @@ Main highlights:
            <p>Indian Companies</p>
          </a>
       </td>
+      <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/NewsApp'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/flutterNews.png'/>
+           <p>Flutter News</p>
+         </a>
+      </td>
        <td align='center'>
          <a href='https://github.com/AdityaKanikdaley/CollegeLog'>
            <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/collegeLog.png'/>
