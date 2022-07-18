@@ -18,29 +18,35 @@ Main highlights:
   <tbody>
     <tr> 
        <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/ExploreIndia'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/exploreIndia.png'/>
+           <p>Explore India</p>
+         </a>
+       </td>
+       <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/NewsApp'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/flutterNews.png'/>
+           <p>News App</p>
+         </a>
+       </td>
+       <td align='center'>
          <a href='https://github.com/AdityaKanikdaley/IndianCompanies'>
            <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/indianCompanies.png'/>
            <p>Indian Companies</p>
          </a>
-      </td>
-      <td align='center'>
-         <a href='https://github.com/AdityaKanikdaley/NewsApp'>
-           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/flutterNews.png'/>
-           <p>Flutter News</p>
-         </a>
-      </td>
-       <td align='center'>
-         <a href='https://github.com/AdityaKanikdaley/CollegeLog'>
-           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/collegeLog.png'/>
-           <p>College Log</p>
-         </a>
-      </td>
+       </td>
        <td align='center'>
          <a href='https://github.com/AdityaKanikdaley/ExpenseManager'>
            <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/expenseManager.png'/>
            <p>Expense Manager</p>
          </a>
-      </td>
+       </td>
+       <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/CollegeLog'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/collegeLog.png'/>
+           <p>College Log</p>
+         </a>
+       </td>
     </tr>
   </tbody>  
 </table>
