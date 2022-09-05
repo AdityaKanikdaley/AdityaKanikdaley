@@ -36,6 +36,12 @@ Main highlights:
          </a>
        </td>
        <td align='center'>
+         <a href='https://github.com/AdityaKanikdaley/YoutubeFlutter'>
+           <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/youtubeFlutter.png'/>
+           <p>YouTube Flutter</p>
+         </a>
+       </td>
+       <td align='center'>
          <a href='https://github.com/AdityaKanikdaley/ExpenseManager'>
            <img height='100' src='https://github.com/AdityaKanikdaley/AdityaKanikdaley/blob/main/Resources/Icons/expenseManager.png'/>
            <p>Expense Manager</p>
